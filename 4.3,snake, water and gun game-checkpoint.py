@@ -1,3 +1,5 @@
+#hi am pramod
+
 import random
 name=["snake","water","gun"]
 computer_choice   =   []
