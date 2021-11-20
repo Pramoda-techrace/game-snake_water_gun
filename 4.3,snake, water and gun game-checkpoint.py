@@ -1,5 +1,6 @@
 #hi am pramod
 #waiting for run the programm
+#get success in life
 
 import random
 name=["snake","water","gun"]
